@@ -1,31 +1,460 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+<!DOCTYPE HTML>
+<!--
+	Paradigm Shift by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Mike Adeyemi Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
 
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+				<!-- Intro -->
+					<section class="intro">
+						<header>
+							<h1>Micheal Oyatunde</h1>
+							<p>Data Analyst | Power BI Developer <a href="https://www.linkedin.com/in/mikeadeyemi">@LinkedIn</a> / <a href="https://tiktok.com/@mikeadeyemi_theanalyst">GITHUB</a></p>
+							<ul class="actions">
+								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
+							</ul>
+						</header>
+						<div class="content">
+							<span class="image fill" data-position="center"><img src="images/profile_pic.JPG" alt="" /></span>
+						</div>
+					</section>
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+				<!-- Section -->
+					<section id="first">
+						<header>
+							<h2>About Me</h2>
+						</header>
+						<div class="content">
+							<p><strong>IBM Certified Analyst:</strong> Your business is your legacy, years of dedication, innovation, and strategic growth have positioned you as a leader in your industry. But to stay ahead, you need more than just experience; you need data that tells your story and guides your next move.
 
-(* = not included)
+								That's where i come in. As a Data Analyst, I help you maximize sales, optimize operations, and ensure that your business not only thrives on its best days but is also prepared for sustained success. Let me transform your data into your most valuable asset.</p>
+							<span class="image main"><img src="images/Mikee.JPG" alt="" /></span>
+						</div>
+					</section>
 
-AJ
-aj@lkn.io | @ajlkn
+				<!-- Section -->
+					<section>
+						<header>
+							<h2>Projects</h2>
+						</header>
+						<div class="content">
+							<p><strong>This holds all my Projects </strong> With extensive experience in data analysis and a strong proficiency in Excel, SQL, Python, Power BI, Tableau, Looker Studio, IBM Cognos. I specialize in transforming complex data into actionable insights that drive business growth. My expertise helps organizations optimize performance, boost sales, and inform strategic decisions with data-driven confidence.</p>
 
+							<!-- Section -->
+								<section>
+									<header>
+										<h3>Influencer Campaign Analytics</h3>
+										<p>This project aims to empower marketing stakeholders with a robust analytics platform, enabling data-driven decision-making and strategic partnerships with high-performing TikTok influencers.</p>
+									</header>
+									<div class="content">
+										<div class="gallery">
+											<a href="https://github.com/mike-adeyemi/top_100_tiktokers_influencers" class="landscape"><img src="images/gallery/thumbs/Tiktok influencer.jpg" alt="" /></a>
+										
+										</div>
+									</div>
+								</section>
 
-Credits:
+							<!-- Section -->
+								<section>
+									<header>
+										<h3>Retail Sales Insights</h3>
+										<p>This comprehensive analytics solution provides actionable intelligence on sales trends, customer behavior, and product performance, empowering retail businesses to make data-driven decisions and drive growth.</p>
+									</header>
+									<div class="content">
+										<div class="gallery">
+											<a href="https://github.com/mike-adeyemi/retail_sales_insights" class="landscape"><img src="images/gallery/thumbs/Supermarket_Sales.jpg" alt="" /></a>
+											
+										</div>
+									</div>
+								</section>
+<!-- Section -->
+<section>
+	<header>
+		<h3>Product-Financial-Insights</h3>
+		<p>This project provides a comprehensive sales performance analysis using Power BI. The interactive dashboard helps business stakeholders understand total sales, profit, discount impact, and sales distribution by country, product, and time period.</p>
+</header>
+	<div class="content">
+		<div class="gallery">
+			<a href="https://github.com/mike-adeyemi/Product-Financial-Insights" class="landscape"><img src="images/gallery/thumbs/Financial-insights.jpeg" alt="" /></a>
+			<a href="https://github.com/mike-adeyemi/Product-Financial-Insights"><img src="images/gallery/thumbs/Financial-insights 3.jpeg" alt="" /></a>
+			<a href="https://github.com/mike-adeyemi/Product-Financial-Insights"><img src="images/gallery/thumbs/Financial-insights 4.jpeg" alt="" /></a>
+		</div>
+	</div>
+</section>
 
-	Demo Images:
-		Unsplash (unsplash.com)
+					<!-- Section -->
+					<section>
+						<header>
+							<h3>Bank-Customer-Attrition</h3>
+							<p>The dataset contains information on 10,000 bank customers, focusing on their demographics, banking activity, credit behavior, and satisfaction levels. The primary objective of this dataset is to analyze customer attrition patterns and identify factors that influence customer retention.</p>
+						</header>
+						<div class="content">
+							<div class="gallery">
+								<a href="https://github.com/mike-adeyemi/Bank-Customer-Attrition" class="landscape"><img src="images/gallery/thumbs/Banking.jpeg" alt="" /></a>
+					
+							</div>
+						</div>
+					</section>
 
-	Icons:
-		Font Awesome (fontawesome.io)
+					
+							<!-- Section -->
+							<section>
+								<header>
+									<h3>Power Bi Projects</h3>
+									<p>This holds all my Power BI dashbaord.</p>
+								</header>
+								<div class="content">
+									<div class="gallery">
+										<a href="https://app.powerbi.com/home?experience=power-bi" class="landscape"><img src="images/gallery/thumbs/Microsoft Power BI..jpg" alt="" /></a>
+									</div>
+								</div>
+							</section>
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+														<!-- Section -->
+
+				<!-- Elements -->
+				<!--
+					<section>
+						<header>
+							<h2>Elements</h2>
+						</header>
+						<div class="content">
+
+							<section>
+								<header>
+									<h3>Text</h3>
+								</header>
+								<div class="content">
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<hr />
+									<h5>Blockquote</h5>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h5>Preformatted</h5>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+  print 'Iteration ' + i;
+  deck.shuffle();
+  i++;
+}
+
+print 'Sorted in ' + i + ' iterations.';</code></pre>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Lists</h3>
+								</header>
+								<div class="content">
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Table</h3>
+								</header>
+								<div class="content">
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Buttons</h3>
+								</header>
+								<div class="content">
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button large">Large</a></li>
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</div>
+							</section>
+
+							<section>
+								<header>
+									<h3>Form</h3>
+								</header>
+								<div class="content">
+									<form method="post" action="#">
+										<div class="fields">
+											<div class="field half">
+												<label for="demo-name">Name</label>
+												<input type="text" name="demo-name" id="demo-name" value="" placeholder="Jane Doe" />
+											</div>
+											<div class="field half">
+												<label for="demo-email">Email</label>
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+											</div>
+											<div class="field">
+												<label for="demo-category">Category</label>
+												<select name="demo-category" id="demo-category">
+													<option value="">-</option>
+													<option value="1">Manufacturing</option>
+													<option value="1">Shipping</option>
+													<option value="1">Administration</option>
+													<option value="1">Human Resources</option>
+												</select>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-low" name="demo-priority" checked>
+												<label for="demo-priority-low">Low</label>
+											</div>
+											<div class="field half">
+												<input type="radio" id="demo-priority-high" name="demo-priority">
+												<label for="demo-priority-high">High</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-copy" name="demo-copy">
+												<label for="demo-copy">Email me a copy</label>
+											</div>
+											<div class="field half">
+												<input type="checkbox" id="demo-human" name="demo-human" checked>
+												<label for="demo-human">Not a robot</label>
+											</div>
+											<div class="field">
+												<label for="demo-message">Message</label>
+												<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" class="primary" /></li>
+											<li><input type="reset" value="Reset" /></li>
+										</ul>
+									</form>
+								</div>
+							</section>
+
+						</div>
+					</section>
+				-->
+
+				<!-- Section -->
+					<section>
+						<header>
+							<h2>Get in touch</h2>
+						</header>
+						<div class="content">
+							<p><strong>Ready</strong> to unlock the power of data-driven insights for your business? Let's connect and explore how my expertise in data analysis and visualization can help you achieve your goals.</p>
+							<form>
+								<div class="fields">
+									<div class="field half">
+										<input type="text" name="name" id="name" placeholder="Name" />
+									</div>
+									<div class="field half">
+										<input type="email" name="email" id="email" placeholder="Email" />
+									</div>
+									<div class="field">
+										<textarea name="message" id="message" placeholder="Message" rows="7"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" class="button primary" /></li>
+								</ul>
+							</form>
+						</div>
+						<footer>
+							<ul class="items">
+								<li>
+									<h3>Email</h3>
+									<a href="https://mail.google.com/mail/u/1/#inbox">michealoyatunde@gmail.com</a>
+								</li>
+								<li>
+									<h3>Phone</h3>
+									<a href="#">(234) 803-311-5304</a>
+								</li>
+								<li>
+									<h3>Address</h3>
+									<span>200109 Arolu agoro, Ibadan, Nigeria</span>
+								</li>
+								<li>
+									<h3>Social Media</h3>
+									<ul class="icons">
+										<li><a href="https://tiktok.com/@mikeadeyemi_theanalyst" class="icon brands fa-tiktok"><span class="label">TikTok</span></a></li>
+										<li><a href="https://www.linkedin.com/in/mikeadeyemi" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+										<li><a href="https://github.com/mike-adeyemi" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									</ul>
+								</li>
+							</ul>
+						</footer>
+					</section>
+
+				<!-- Copyright -->
+					<div class="copyright">&copy; Untitled. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>.</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
